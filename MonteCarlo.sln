@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monte_carlo_Gough", "Monte_carlo_Gough.csproj", "{CD9B181C-CED6-43D8-ABB4-F387FBB56DF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD9B181C-CED6-43D8-ABB4-F387FBB56DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9B181C-CED6-43D8-ABB4-F387FBB56DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9B181C-CED6-43D8-ABB4-F387FBB56DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9B181C-CED6-43D8-ABB4-F387FBB56DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A408DE1-0A56-494A-8208-308F5D32880B}
+	EndGlobalSection
+EndGlobal
